@@ -11,5 +11,6 @@ public class Home {
 		System.out.println("hi");
 		System.out.println("new");
 		System.out.println("bye");
+		System.out.println("hhii");
 	}
 }
